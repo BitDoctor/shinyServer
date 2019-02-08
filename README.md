@@ -1,2 +1,1 @@
-# shinyServer
-host shiny on github
+# ShinyTestingV2
